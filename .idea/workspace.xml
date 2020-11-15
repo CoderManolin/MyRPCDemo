@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1dbe392f-0593-4860-9b79-1ad749638ab7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/rpc-api/target/" />
@@ -102,8 +101,8 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2060" />
-    <option name="y" value="92" />
+    <option name="x" value="1953" />
+    <option name="y" value="63" />
     <option name="width" value="1640" />
     <option name="height" value="914" />
   </component>
@@ -220,7 +219,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605438749102</updated>
-      <workItem from="1605438751232" duration="14613000" />
+      <workItem from="1605438751232" duration="14760000" />
     </task>
     <task id="LOCAL-00001" summary="commit project MyRPCDemo">
       <created>1605448163711</created>
@@ -320,14 +319,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605455638032</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit project MyRPCDemo-images 001 001 times">
+      <created>1605455694076</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605455694076</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14613000" />
+    <option name="totallyTimeSpent" value="14760000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2060" y="92" width="1640" height="914" extended-state="0" />
+    <frame x="2040" y="83" width="1640" height="914" extended-state="0" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -335,12 +341,12 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2744216" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2744216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3958904" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3958904" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="MyBatis Log" />
       <window_info anchor="bottom" id="Tail" />
@@ -383,7 +389,8 @@
     <MESSAGE value="commit project MyRPCDemo-images six times" />
     <MESSAGE value="commit project MyRPCDemo-images 01 times" />
     <MESSAGE value="commit project MyRPCDemo-images 001 times" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit project MyRPCDemo-images 001 times" />
+    <MESSAGE value="commit project MyRPCDemo-images 001 001 times" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit project MyRPCDemo-images 001 001 times" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/rpc-api/pom.xml">
